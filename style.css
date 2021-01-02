@@ -1,0 +1,36 @@
+
+body {
+    background-color: #9b89f0	;
+  }
+   h1 {
+      font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+   }
+  h2 {
+      font-family: 'Lato', sans-serif;
+      font-size: 18px;
+  }
+  
+  #display {
+      overflow: auto;
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 100px;
+  
+  }
+  
+  img {
+      float: left;
+      padding: 2px;
+  }
+   
+  .result {
+      border: 2px solid #f09289;
+      color: black;
+      background-color: #f0c589;
+      border-radius: 5px;
+      padding: 5px;
+      width: 300px;
+      height: 300px;
+      display: inline-block;
+      }
