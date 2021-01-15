@@ -17,5 +17,6 @@ function search() {
 
         }
     });
+display.innerHTML="";
 
 }
